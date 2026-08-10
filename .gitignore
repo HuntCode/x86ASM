@@ -1,0 +1,14 @@
+# Visual Studio local state
+/.vs/
+*.user
+*.suo
+
+# Build output
+/build/
+
+# Legacy default output paths created before build/ was configured
+/Debug/
+/Release/
+/x64/
+/x86ASM/
+/x86ASM.lst
