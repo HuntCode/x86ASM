@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="AddTwo.asm">
+    <MASM Include="AddTwo_x86.asm">
+      <Filter>源文件</Filter>
+    </MASM>
+    <MASM Include="AddTwo_x64.asm">
       <Filter>源文件</Filter>
     </MASM>
   </ItemGroup>
