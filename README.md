@@ -27,6 +27,8 @@ Debug | Win32
 x86ASM.sln                         Visual Studio 解决方案
 chapters/ch03-add-two/             第 3 章：三个整数相加
 chapters/ch04-sum-array/           第 4 章：数组求和
+chapters/ch05-procedures/          第 5 章：过程与栈
+  revstr/                          示例：使用栈反转字符串（Win32）
 build/bin/<项目>/<平台>/<配置>/     EXE、PDB 等最终产物
 build/obj/<项目>/<平台>/<配置>/     OBJ、ILK、TLOG、汇编清单等中间产物
 ```
