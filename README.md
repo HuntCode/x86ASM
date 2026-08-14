@@ -30,6 +30,10 @@ chapters/ch04-sum-array/           第 4 章：数组求和
 chapters/ch05-procedures/          第 5 章：过程与栈
   revstr/                          示例：使用栈反转字符串（Win32）
   test-array-sum/                  示例：调用 ArraySum 过程（Win32）
+  test-lib-1-input-loop/           Irvine32 测试 1：整数输入输出（Win32）
+  test-lib-2-random/               Irvine32 测试 2：随机整数（Win32）
+  test-lib-3-timing/               Irvine32 测试 3：性能计时（Win32）
+third_party/irvine32/              仓库内共享的 Irvine32 教学库依赖
 build/bin/<项目>/<平台>/<配置>/     EXE、PDB 等最终产物
 build/obj/<项目>/<平台>/<配置>/     OBJ、ILK、TLOG、汇编清单等中间产物
 ```

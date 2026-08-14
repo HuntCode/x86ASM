@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup><Filter Include="源文件"><UniqueIdentifier>{41C11B9B-A98E-45D2-B26D-91F50149CF57}</UniqueIdentifier><Extensions>asm</Extensions></Filter></ItemGroup>
+  <ItemGroup><MASM Include="InputLoop.asm"><Filter>源文件</Filter></MASM></ItemGroup>
+</Project>
